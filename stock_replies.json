@@ -1,0 +1,17 @@
+{
+  "BOLT-08": {
+    "name": "Hex bolt",
+    "on_hand": 18,
+    "reserved": 6
+  },
+  "CLIP-12": {
+    "name": "Pipe clip",
+    "on_hand": 9,
+    "reserved": 0
+  },
+  "CAP-04": {
+    "name": "End cap",
+    "on_hand": 4,
+    "reserved": 4
+  }
+}
