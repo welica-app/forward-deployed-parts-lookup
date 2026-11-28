@@ -56,4 +56,4 @@ If the app prints `Stock API unavailable.`, the app could not get usable stock d
 
 ## What to hand in
 
-The code you changed, `checks.py` with your new check, and a short note: what was wrong, how you found it, what you changed, and how you checked it.
+The code you changed, `checks.py` with your new checks, and a short note: what was wrong, how you found it, what you changed, and how you checked it. End the note with two plain lines for the counter staff: what the number on the screen now means, and what to do if the app shows `Stock API unavailable.`
